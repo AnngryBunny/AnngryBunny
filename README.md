@@ -1,16 +1,22 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.tenor.com/3svQvAK_4QIAAAAd/the-secret-life-of-pets-snowball.gif"  width="100"/>
 
-<!--
-**AnngryBunny/AnngryBunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=AnngryBunny&style=flat-square&color=orange" alt=""/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>
+  Good morning, and in case I don't see ya, good afternoon, good evening, and good night! 👋🏻
+</h1>
+
+<div align="center">
+  <img src="https://media.tenor.com/pBdSZujHiacAAAAC/tkthao219-bunny.gif" width="300" height="300"/>
+</div>
+</div>
