@@ -26,8 +26,6 @@ Hello, World! I am a young energetic Front End Developer <img src="https://media
 - 💢 Not angry, not hairy, no tail (2 truths and a lie).  
 </div>
 
-<iframe src="https://giphy.com/embed/f0SFw1gXlmkc8" width="408" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-rabbit-working-f0SFw1gXlmkc8">via GIPHY</a></p>
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
